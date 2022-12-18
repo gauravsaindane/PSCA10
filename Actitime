@@ -12,3 +12,5 @@
 	    driver.findElement(By.className("content reports")).click();
 	    driver.findElement(By.className("content users")).click();
           driver.findElement(By.className("content users")).click();
+	     driver(By.className("content users")).click();
+	        driver(By.className("content users"))
